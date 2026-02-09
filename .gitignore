@@ -1,0 +1,17 @@
+# Build output
+**/Debug/
+**/Release/
+
+# Temp / backup
+nano.*
+*.save
+*.swp
+*~
+
+# IDE files
+*.launch
+
+# Compiled output
+*.o
+*.elf
+*.map

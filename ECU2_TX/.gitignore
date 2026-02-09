@@ -1,0 +1,19 @@
+# Build folders
+Debug/
+Release/
+.build/
+
+# IDE files
+.settings/
+.metadata/
+
+# Output files
+*.o
+*.elf
+*.map
+*.lst
+
+# Backup files
+*~
+*.swp
+
